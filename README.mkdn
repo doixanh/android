@@ -1,3 +1,11 @@
+dx customized CM
+===========
+
+$ repo init -u git://github.com/doixanh/android.git -b cm-11.0
+$ repo sync -j 1024
+^ I'm trolling, don't do it :D
+
+
 CyanogenMod
 ===========
 
